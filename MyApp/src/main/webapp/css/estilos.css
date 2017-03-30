@@ -1,0 +1,32 @@
+
+h1{
+	color: #0a1cc2;
+	
+}
+
+body{
+	background-color: #6cdae6;
+}
+#contenedor_principal{
+width:1024px;
+height:auto;
+position:relative;
+margin:auto;
+}
+.contenedor_imagen_texto{
+padding: 10px 1em;
+position:relative;
+display:inline-block;
+vertical-align:top;
+overflow:hidden;
+}
+.imagen, .texto{
+height:auto;
+position:inherit;
+display:inline;
+}
+.texto{
+height:auto;
+text-align:right;
+color: white;
+}
